@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <string-array name="array">
+        <item>1000 ppm</item>
+        <item>2000 ppm</item>
+        <item>3000 ppm</item>
+        <item>4000 ppm</item>
+        <item>5000 ppm</item>
+        <item>6000 ppm</item>
+        <item>7000 ppm</item>
+        <item>8000 ppm</item>
+        <item>9000 ppm</item>
+
+    </string-array>
+
+</resources>
